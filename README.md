@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pegsdub
-- 👀 I’m interested in ... becoming more proficient with programming and cloud services!
-- 🌱 I’m currently learning ... Python. Once I complete my learning with Python, I will be moving on to JavaScript. Once I complete my Python course, I will start my Kubernetes courses and plan on completing Kubernetes certifications.
-- 💞️ I’m looking to collaborate on ... any sort of beginner projects that will allow me to better understand how to store inputs through Python applications and then be able to analyze that data.
+- 👀 I’m interested in ... full-stack development! I am learning to make web-based apps using JS, React, TailwindCSS, BulmaCSS, and MySQL.
+- 🌱 I’m currently learning ... React. I do want to start learning more about data orchestration once I am more knowledgable of web-development.
+- 💞️ I’m looking to collaborate on ... any sort of app that will put my JS to the test!
 - 📫 How to reach me ... feel free to email me: nathan.pegram@wsu.edu
 
 <!---
