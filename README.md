@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pegsdub
+- 👋 Hi, I’m Nate Pegram
 - 👀 I’m interested in ... full-stack development! I am learning to make web-based apps using JS, React, TailwindCSS, BulmaCSS, and MySQL.
 - 🌱 I’m currently learning ... React. I do want to start learning more about data orchestration once I am more knowledgable of web-development.
 - 💞️ I’m looking to collaborate on ... any sort of app that will put my JS to the test!
